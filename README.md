@@ -272,8 +272,6 @@ The project aims to build an AI assistant that can support candidates throughout
 * [ ] Answer evaluation
 * [ ] Interview feedback
 * [ ] Interview preparation workspace
-* [ ] Real-Time Interview Support
-* [ ] Voice Agent
 
 
 ---
