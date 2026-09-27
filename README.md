@@ -255,6 +255,7 @@ The project aims to build an AI assistant that can support candidates throughout
 * [ ] Cover letter generation
 * [ ] Application answer generation
 * [ ] Application workflow
+* [ ] Recruiter Investigation
 
 ### Phase 4 — Tracking
 
@@ -263,6 +264,7 @@ The project aims to build an AI assistant that can support candidates throughout
 * [ ] Interview tracking
 * [ ] Follow-up reminders
 * [ ] Application history
+* [ ] Recruiter Contact
 
 ### Phase 5 — Interview Support
 
