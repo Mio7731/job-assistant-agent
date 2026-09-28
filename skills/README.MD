@@ -13,3 +13,11 @@
 - Java
 - JavaScript
 - TypeScript
+
+### Frameworks & Libraries
+
+- FastAPI
+- Django
+- React
+- Pydantic
+- SQLAlchemy
