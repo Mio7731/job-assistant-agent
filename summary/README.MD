@@ -61,19 +61,13 @@ and SQL, with a strong focus on scalable and reliable
 software development.
 ```
 
-## Project Structure
-
-```text
-resume-summary-generator/
-├── src/
-│   ├── generator/
-│   ├── models/
-│   └── utils/
-├── tests/
-├── README.md
-├── requirements.txt
-└── .gitignore
-```
+Add a detailed input schema:
+Name
+Experience
+Skills
+Education
+Target role
+Add a realistic generated-summary example.
 
 ## Installation
 
