@@ -25,3 +25,9 @@
 - Completed software development projects
 - Participated in programming projects
 - Applied software engineering principles to practical applications
+
+#### Certifications
+
+- Python Programming
+- Web Development
+- Cloud Computing
