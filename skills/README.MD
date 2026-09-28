@@ -21,3 +21,16 @@
 - React
 - Pydantic
 - SQLAlchemy
+
+### Databases
+
+- PostgreSQL
+- MySQL
+- Redis
+
+### Development Tools
+
+- Git
+- Docker
+- GitHub Actions
+- Pytest
