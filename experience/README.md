@@ -26,3 +26,12 @@
 - Automated repetitive development processes
 - Contributed to scalable software architecture
 - Reduced development and debugging time
+
+#### Technologies
+
+- Python
+- FastAPI
+- React
+- PostgreSQL
+- Docker
+- Git
