@@ -95,5 +95,6 @@ pytest
 
 The goal of this component is to provide a reliable and reusable way to generate **clear, concise, and professional resume summaries** for different candidates and job applications.
 
-Add a clear purpose and problem statement.
-Remove repetitive sentences.
+Add features like role-specific summaries, keyword extraction, and structured output.
+Remove generic wording such as “professional content.”
+
