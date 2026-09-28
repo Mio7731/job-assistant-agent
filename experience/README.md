@@ -19,3 +19,10 @@
 - Designed and implemented backend services
 - Collaborated with development teams
 - Investigated and resolved technical issues
+
+#### Key Achievements
+
+- Improved application performance and reliability
+- Automated repetitive development processes
+- Contributed to scalable software architecture
+- Reduced development and debugging time
