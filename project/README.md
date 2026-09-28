@@ -19,3 +19,11 @@ A tool that generates concise, professional resume summaries from candidate info
 - PostgreSQL
 - React
 - Docker
+
+#### Responsibilities
+
+- Designed the application architecture
+- Implemented backend services
+- Developed API endpoints
+- Designed data models
+- Added automated tests
