@@ -34,3 +34,13 @@
 - Docker
 - GitHub Actions
 - Pytest
+
+### Skill Categories
+
+| Category | Skills |
+|---|---|
+| Backend | Python, FastAPI, Django |
+| Frontend | React, JavaScript, TypeScript |
+| Database | PostgreSQL, MySQL, Redis |
+| DevOps | Docker, GitHub Actions |
+| Testing | Pytest |
