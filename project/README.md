@@ -11,3 +11,11 @@ A tool that generates concise, professional resume summaries from candidate info
 
 **Role:** Full Stack Developer  
 **Status:** In Development
+
+#### Technologies
+
+- Python
+- FastAPI
+- PostgreSQL
+- React
+- Docker
