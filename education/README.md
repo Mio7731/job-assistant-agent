@@ -19,3 +19,9 @@
 - Data Structures & Algorithms
 - Database Systems
 - Computer Networks
+
+#### Academic Achievements
+
+- Completed software development projects
+- Participated in programming projects
+- Applied software engineering principles to practical applications
