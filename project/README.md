@@ -27,3 +27,10 @@ A tool that generates concise, professional resume summaries from candidate info
 - Developed API endpoints
 - Designed data models
 - Added automated tests
+
+#### Key Results
+
+- Created a reusable resume-processing workflow
+- Improved consistency of generated summaries
+- Added structured candidate data processing
+- Established a scalable foundation for future features
