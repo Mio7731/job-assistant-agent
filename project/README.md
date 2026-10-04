@@ -1,36 +1,9 @@
-## Projects
+# Resume Project Generator
 
-### Project Overview
+## Overview
 
-Each project includes its purpose, technologies, responsibilities, and key results.
+The Resume Project Generator is a module responsible for transforming structured project information into a professional resume project section.
 
-### Resume Summary Generator
+It organizes project descriptions, technical contributions, technologies, and outcomes into a clear ATS-friendly format.
 
-**Description:**  
-A tool that generates concise, professional resume summaries from candidate information.
-
-**Role:** Full Stack Developer  
-**Status:** In Development
-
-#### Technologies
-
-- Python
-- FastAPI
-- PostgreSQL
-- React
-- Docker
-
-#### Responsibilities
-
-- Designed the application architecture
-- Implemented backend services
-- Developed API endpoints
-- Designed data models
-- Added automated tests
-
-#### Key Results
-
-- Created a reusable resume-processing workflow
-- Improved consistency of generated summaries
-- Added structured candidate data processing
-- Established a scalable foundation for future features
+The module helps candidates showcase their engineering experience through impactful project descriptions that highlight technical skills, problem-solving ability, and business value.
