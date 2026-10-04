@@ -79,3 +79,17 @@ ATS Keyword Optimization
         |
         v
 Final Skills Section
+
+## Validation Rules
+
+Before generating the final skills section, the module validates:
+
+- Skill names must be provided
+- Empty skill categories are ignored
+- Duplicate skills are removed
+- Invalid or incomplete skill records are rejected
+- Skills are normalized for consistent naming
+- Related technologies can be grouped under the appropriate category
+
+These validation rules help maintain a clean and consistent skills section.
+
