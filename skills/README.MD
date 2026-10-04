@@ -1,46 +1,10 @@
-## Skills
+# Resume Skills Generator
 
-### Technical Skills
+## Overview
 
-- Programming Languages
-- Frameworks & Libraries
-- Databases
-- Development Tools
+The Resume Skills Generator is a module responsible for transforming structured technical and professional skills into a clear, organized, and ATS-friendly resume skills section.
 
-### Programming Languages
+It helps organize skills by category, maintain consistent formatting, and highlight technologies and competencies that are relevant to a candidate's professional profile.
 
-- Python
-- Java
-- JavaScript
-- TypeScript
+The module is designed to produce concise skills sections that are easy for both applicant tracking systems and recruiters to understand.
 
-### Frameworks & Libraries
-
-- FastAPI
-- Django
-- React
-- Pydantic
-- SQLAlchemy
-
-### Databases
-
-- PostgreSQL
-- MySQL
-- Redis
-
-### Development Tools
-
-- Git
-- Docker
-- GitHub Actions
-- Pytest
-
-### Skill Categories
-
-| Category | Skills |
-|---|---|
-| Backend | Python, FastAPI, Django |
-| Frontend | React, JavaScript, TypeScript |
-| Database | PostgreSQL, MySQL, Redis |
-| DevOps | Docker, GitHub Actions |
-| Testing | Pytest |
