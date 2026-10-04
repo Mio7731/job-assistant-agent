@@ -1,37 +1,9 @@
-## Experience
+# Resume Experience Generator
 
-### Professional Experience
+## Overview
 
-- Job title
-- Company
-- Employment period
-- Location
+The Resume Experience Generator is a module responsible for transforming structured professional experience data into a professional resume experience section.
 
-### Software Developer
+It organizes job history, responsibilities, achievements, and technical contributions into a clear ATS-friendly format.
 
-**Company:** Example Company  
-**Period:** 2022 – 2026  
-**Location:** Remote
-
-#### Responsibilities
-
-- Developed and maintained software applications
-- Designed and implemented backend services
-- Collaborated with development teams
-- Investigated and resolved technical issues
-
-#### Key Achievements
-
-- Improved application performance and reliability
-- Automated repetitive development processes
-- Contributed to scalable software architecture
-- Reduced development and debugging time
-
-#### Technologies
-
-- Python
-- FastAPI
-- React
-- PostgreSQL
-- Docker
-- Git
+The module helps generate consistent and impactful work experience descriptions while highlighting measurable results and relevant skills.
