@@ -40,3 +40,27 @@ Example:
     "Automated repetitive application tasks"
   ]
 }
+
+## Generation Workflow
+
+The project generation process follows these steps:
+
+Project Input Data
+|
+v
+Project Information Validation
+|
+v
+Technical Achievement Analysis
+|
+v
+Resume Project Content Generation
+|
+v
+ATS Keyword Optimization
+|
+v
+Final Project Section
+
+
+The workflow converts raw project information into concise, achievement-focused resume content.
