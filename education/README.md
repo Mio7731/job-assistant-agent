@@ -1,11 +1,22 @@
 ## Education
 
+# Resume Education Generator
+
+## Overview
+
+The Resume Education Generator is a module that transforms structured academic information into a professional resume education section.
+
+It provides consistent formatting, improves readability, and generates ATS-friendly education content for different resume formats.
+
+This module helps automate the process of organizing academic backgrounds, coursework, achievements, and certifications.
+
 ### Academic Background
 
 - Degree
 - Institution
 - Study period
 - Location
+
 
 ### Bachelor's Degree in Computer Science
 
