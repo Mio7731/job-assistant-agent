@@ -76,3 +76,26 @@ Before generating project content, the module validates:
 - Invalid project records are rejected
 
 Validation improves the quality and reliability of generated resume projects.
+
+## ATS Optimization
+
+The generator applies professional resume principles:
+
+- Uses action-oriented project descriptions
+- Highlights technical contributions
+- Includes relevant technology keywords
+- Focuses on measurable outcomes
+- Improves recruiter readability
+- Maintains compatibility with ATS systems
+
+
+## Future Improvements
+
+Planned enhancements:
+
+- AI-powered project description enhancement
+- Automatic project ranking based on job requirements
+- GitHub repository analysis integration
+- Multi-language project generation
+- Project impact estimation
+- Integration with resume scoring systems
