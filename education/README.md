@@ -10,6 +10,33 @@ It provides consistent formatting, improves readability, and generates ATS-frien
 
 This module helps automate the process of organizing academic backgrounds, coursework, achievements, and certifications.
 
+## Education Data Structure
+
+The generator accepts structured education information:
+
+- Degree
+- Institution
+- Study period
+- Location
+- Relevant coursework
+- Academic achievements
+- Certifications
+
+Example:
+
+```json
+{
+  "degree": "Bachelor's Degree in Computer Science",
+  "institution": "Example University",
+  "period": "2020 - 2024",
+  "location": "Brazil",
+  "coursework": [
+    "Software Engineering",
+    "Data Structures & Algorithms",
+    "Database Systems"
+  ]
+}
+
 ### Academic Background
 
 - Degree
