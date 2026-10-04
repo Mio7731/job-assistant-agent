@@ -75,3 +75,25 @@ Before generating experience content, the module validates:
 - Empty responsibilities are rejected
 
 The validation process improves accuracy and prevents incomplete resume sections.
+
+## ATS Optimization
+
+The generator applies professional resume principles:
+
+- Uses action-oriented bullet points
+- Highlights measurable achievements
+- Preserves important technical keywords
+- Improves recruiter readability
+- Maintains compatibility with ATS systems
+
+---
+
+## Future Improvements
+
+Planned enhancements:
+
+- AI-powered achievement rewriting
+- Automatic impact measurement suggestions
+- Job-description-based experience optimization
+- Multi-language experience generation
+- Integration with resume scoring systems
