@@ -64,3 +64,15 @@ Final Project Section
 
 
 The workflow converts raw project information into concise, achievement-focused resume content.
+
+## Validation Rules
+
+Before generating project content, the module validates:
+
+- Project name must exist
+- Project description cannot be empty
+- Technologies must be identified
+- Duplicate projects are removed
+- Invalid project records are rejected
+
+Validation improves the quality and reliability of generated resume projects.
