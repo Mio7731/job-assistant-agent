@@ -37,6 +37,13 @@ Example:
   ]
 }
 
+## Generation Workflow
+
+The education generation process follows these steps:
+
+
+The workflow ensures education information is accurate, consistent, and optimized for resume systems.
+
 ### Academic Background
 
 - Degree
