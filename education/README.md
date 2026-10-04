@@ -44,6 +44,19 @@ The education generation process follows these steps:
 
 The workflow ensures education information is accurate, consistent, and optimized for resume systems.
 
+
+## Validation Rules
+
+Before generating the final resume section, the module validates:
+
+- Degree information is provided
+- Institution name is available
+- Study period follows a valid format
+- Empty education records are rejected
+- Duplicate entries are removed
+
+Validation improves output quality and prevents incomplete resume sections.
+
 ### Academic Background
 
 - Degree
