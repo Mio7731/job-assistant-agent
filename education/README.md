@@ -1,18 +1,32 @@
-## Education
-
 # Resume Education Generator
 
 ## Overview
 
-The Resume Education Generator is a module that transforms structured academic information into a professional resume education section.
+The Resume Education Generator is a module responsible for transforming structured academic information into a professional resume education section.
 
-It provides consistent formatting, improves readability, and generates ATS-friendly education content for different resume formats.
+It automates the process of organizing education history, relevant coursework, academic achievements, and certifications into a consistent, ATS-friendly format.
 
-This module helps automate the process of organizing academic backgrounds, coursework, achievements, and certifications.
+The module focuses on generating clear and professional education content while maintaining accuracy, readability, and compatibility with different resume formats.
 
-## Education Data Structure
+---
 
-The generator accepts structured education information:
+# Features
+
+The Education Generator provides the following capabilities:
+
+- Generate professional education sections from structured input data
+- Support multiple educational backgrounds
+- Format degrees, institutions, dates, and locations consistently
+- Highlight relevant coursework and academic achievements
+- Generate ATS-friendly resume content
+- Validate required education information
+- Maintain consistent formatting across different resume templates
+
+---
+
+# Education Data Structure
+
+The generator processes structured education information including:
 
 - Degree
 - Institution
@@ -22,7 +36,7 @@ The generator accepts structured education information:
 - Academic achievements
 - Certifications
 
-Example:
+Example input:
 
 ```json
 {
@@ -33,69 +47,12 @@ Example:
   "coursework": [
     "Software Engineering",
     "Data Structures & Algorithms",
-    "Database Systems"
+    "Database Systems",
+    "Computer Networks"
+  ],
+  "achievements": [
+    "Completed software development projects",
+    "Participated in programming competitions",
+    "Applied software engineering principles to practical applications"
   ]
 }
-
-## Generation Workflow
-
-The education generation process follows these steps:
-
-
-The workflow ensures education information is accurate, consistent, and optimized for resume systems.
-
-
-## Validation Rules
-
-Before generating the final resume section, the module validates:
-
-- Degree information is provided
-- Institution name is available
-- Study period follows a valid format
-- Empty education records are rejected
-- Duplicate entries are removed
-
-Validation improves output quality and prevents incomplete resume sections.
-
-## Future Improvements
-
-Possible enhancements:
-
-- AI-powered education description improvement
-- Automatic ranking of relevant coursework
-- Multi-language education generation
-- Integration with resume scoring systems
-- Personalized education recommendations based on job descriptions
-
-### Academic Background
-
-- Degree
-- Institution
-- Study period
-- Location
-
-
-### Bachelor's Degree in Computer Science
-
-**Institution:** Example University  
-**Period:** 2020 – 2024  
-**Location:** Brazil
-
-#### Relevant Coursework
-
-- Software Engineering
-- Data Structures & Algorithms
-- Database Systems
-- Computer Networks
-
-#### Academic Achievements
-
-- Completed software development projects
-- Participated in programming projects
-- Applied software engineering principles to practical applications
-
-#### Certifications
-
-- Python Programming
-- Web Development
-- Cloud Computing
