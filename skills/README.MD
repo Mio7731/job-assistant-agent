@@ -93,3 +93,24 @@ Before generating the final skills section, the module validates:
 
 These validation rules help maintain a clean and consistent skills section.
 
+## ATS Optimization
+
+The generator applies resume optimization principles:
+
+- Preserves important technical keywords
+- Groups related technologies logically
+- Avoids unnecessary repetition
+- Uses standard skill terminology
+- Improves recruiter readability
+- Maintains compatibility with ATS systems
+
+## Future Improvements
+
+Planned enhancements:
+
+- AI-powered skill extraction from resumes
+- Automatic skill extraction from job descriptions
+- Skill relevance ranking based on target positions
+- Detection of related and equivalent technologies
+- Multi-language skills generation
+- Integration with resume scoring systems
