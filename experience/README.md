@@ -39,3 +39,39 @@ Example:
     "Docker"
   ]
 }
+
+## Generation Workflow
+
+The experience generation process follows these steps:
+
+Experience Input Data
+|
+v
+Data Validation
+|
+v
+Achievement Analysis
+|
+v
+Resume Bullet Generation
+|
+v
+ATS Optimization
+|
+v
+Final Experience Section
+
+
+The workflow focuses on converting basic job information into achievement-oriented resume content.
+
+## Validation Rules
+
+Before generating experience content, the module validates:
+
+- Job title must be provided
+- Company information must exist
+- Employment dates must follow a valid format
+- Duplicate experience entries are removed
+- Empty responsibilities are rejected
+
+The validation process improves accuracy and prevents incomplete resume sections.
