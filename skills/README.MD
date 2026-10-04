@@ -57,3 +57,25 @@ Example:
     "Redis"
   ]
 }
+
+## Generation Workflow
+
+The skills generation process follows these steps:
+
+```text
+Skills Input Data
+        |
+        v
+Skill Data Validation
+        |
+        v
+Skill Categorization
+        |
+        v
+Relevance Analysis
+        |
+        v
+ATS Keyword Optimization
+        |
+        v
+Final Skills Section
